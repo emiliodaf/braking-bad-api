@@ -2,6 +2,8 @@
 
 Braking Bad Api
 
+Whats up guys...in this project we have consumed a Braking Bad api with the help of traversy Media where we're able to apply another React Function in order to filter the search component when people is searching for speciific character, it was a great project to put all this knowleadge in practice. I would like to thank Traversy Media for the valuable content shared in their youtube channel what really helped us increase our knowleadge and skills.
+
 ![BbAPI_01](https://user-images.githubusercontent.com/85713266/189461230-b73b73d7-9321-4ff3-9d6f-80fe70802d85.jpg)
 ![BbAPI_02](https://user-images.githubusercontent.com/85713266/189461232-0e5ec04f-97af-4e0b-b950-b125d01fac3b.jpg)
 ![BbAPI_03](https://user-images.githubusercontent.com/85713266/189461233-dcc50682-6481-45b2-a923-71a19c690bbb.jpg)
